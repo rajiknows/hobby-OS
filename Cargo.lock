@@ -3,5 +3,5 @@
 version = 4
 
 [[package]]
-name = "oxidised"
+name = "os_under1k"
 version = "0.1.0"
